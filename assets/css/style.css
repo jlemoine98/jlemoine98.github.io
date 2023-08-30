@@ -223,6 +223,8 @@ img {
 
 .header-video video {
     width: 100vw;
+    height: 100vh;
+    object-fit: cover;
 }
 
 .content-video {
@@ -238,6 +240,8 @@ img {
 
 .content-video video {
     width: 100vw;
+    height: 100vh;
+    object-fit: cover;
 }
 
 footer {
