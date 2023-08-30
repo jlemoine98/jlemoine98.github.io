@@ -200,6 +200,11 @@ img {
     overflow: hidden;
 }
 
+#content-wrapper-projects {
+    max-width: 100vw;
+    overflow: hidden;
+}
+
 .header-image {
     height: 100vh;
     display: flex;
