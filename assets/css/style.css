@@ -197,6 +197,7 @@ img {
 
 .content-wrapper {
     max-width: 100vw;
+    overflow: hidden;
 }
 
 .header-image {
